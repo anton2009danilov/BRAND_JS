@@ -1,0 +1,32 @@
+{
+  "amount": 208.52,
+  "countGoods": 4,
+  "contents": [
+    {
+      "id_product": 101,
+      "product_name": "Mango People T-shirt (type1)",
+      "price": 52.1,
+      "quantity": 3,
+      "href": "single-page.html",
+      "src": "img/cart-product-img1.jpg",
+      "full_star": 4,
+      "half_star": 1,
+      "color": "Red",
+      "size": "Xll",
+      "shipping": 0
+    },
+    {
+      "id_product": 102,
+      "product_name": "Mango People T-shirt (type2)",
+      "price": 52.22,
+      "quantity": 1,
+      "href": "single-page.html",
+      "src": "img/cart-product-img2.jpg",
+      "full_star": 3,
+      "half_star": 0,
+      "color": "Yellow",
+      "size": "S",
+      "shipping": 55
+    }
+  ]
+}
